@@ -48,14 +48,13 @@ Advent of Code is an annual set of programming puzzles created by [Eric Wastl](h
 
 ## 📊 Progress
 
-| Day | Part 1 | Part 2 | Status |
-|-----|--------|--------|--------|
+| Day | Part 1 | Part 2 | Status   |
+| --- | ------ | ------ | -------- |
 | 1   | ✅     | ✅     | Complete |
-| 2   | ⏳     | ⏳     | Pending |
-| ... | ...    | ...    | ... |
+| 2   | ✅     | ✅     | Vomplete |
+| ... | ...    | ...    | ...      |
 
 ## 🌟 Acknowledgments
 
 - [Eric Wastl](https://twitter.com/ericwastl) for creating Advent of Code
 - The amazing AoC community for support and inspiration
-
