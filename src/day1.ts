@@ -42,10 +42,13 @@ function getRotation(input: string) {
 }
 
 function main() {
+	const inputData = readInputData("day1/input.txt").split("\n").filter(Boolean);
+
 	let dial = 50;
 	let secret1 = 0;
 	let secret2 = 0;
-	for (const input of readInputData("day1/input.txt")) {
+
+	for (const input of inputData) {
 		const rotation = getRotation(input);
 		const result = rotate(dial, rotation.value, rotation.direction);
 		dial = result.value;
