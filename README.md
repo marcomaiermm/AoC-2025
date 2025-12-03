@@ -51,8 +51,8 @@ Advent of Code is an annual set of programming puzzles created by [Eric Wastl](h
 | Day | Part 1 | Part 2 | Status   |
 | --- | ------ | ------ | -------- |
 | 1   | ✅     | ✅     | Complete |
-| 2   | ✅     | ✅     | Vomplete |
-| ... | ...    | ...    | ...      |
+| 2   | ✅     | ✅     | Complete |
+| 3   | ✅     | ✅     | Complete |
 
 ## 🌟 Acknowledgments
 
